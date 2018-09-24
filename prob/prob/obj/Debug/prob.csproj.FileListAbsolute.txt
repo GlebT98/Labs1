@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Программирование\prob\prob\bin\Debug\prob.exe.config
+C:\Users\user\Documents\Программирование\prob\prob\bin\Debug\prob.exe
+C:\Users\user\Documents\Программирование\prob\prob\bin\Debug\prob.pdb
+C:\Users\user\Documents\Программирование\prob\prob\obj\Debug\prob.exe
+C:\Users\user\Documents\Программирование\prob\prob\obj\Debug\prob.pdb
+C:\Users\user\Documents\Программирование\prob\prob\obj\Debug\prob.csprojAssemblyReference.cache
+C:\Users\user\Documents\Программирование\prob\prob\obj\Debug\prob.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\3 семестр\Программирование\prob\prob\bin\Debug\prob.exe.config
+C:\Users\user\Documents\3 семестр\Программирование\prob\prob\obj\Debug\prob.exe
+C:\Users\user\Documents\3 семестр\Программирование\prob\prob\obj\Debug\prob.pdb

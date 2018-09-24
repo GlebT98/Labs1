@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Программирование\2 курс\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\user\Documents\3 семестр\Программирование\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\user\Documents\3 семестр\Программирование\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\user\Documents\3 семестр\Программирование\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\user\Documents\3 семестр\Программирование\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\user\Documents\3 семестр\Программирование\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\user\Documents\3 семестр\Программирование\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\user\Documents\3 семестр\Программирование\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
